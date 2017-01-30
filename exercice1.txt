@@ -1,0 +1,1 @@
+Il s'git ici du premier fichier ajouté à partir de mon PC, celui ci sera ensuite migré vers GIT dans le cadre du cours proposé par OCR.
